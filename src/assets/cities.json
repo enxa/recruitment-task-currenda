@@ -1,161 +1,161 @@
 [
   {
     "id": "1",
-    "city": "London",
+    "name": "London",
     "country": " United Kingdom",
-    "population": "8,673,713",
+    "population": "8673713",
     "latitude": "51.507222",
     "longitude": "0.1275"
   },
   {
     "id": "2",
-    "city": "Berlin",
+    "name": "Berlin",
     "country": " Germany",
-    "population": "3,562,166",
+    "population": "3562166",
     "latitude": "52.516667",
     "longitude": "13.383333"
   },
   {
     "id": "3",
-    "city": "Madrid",
+    "name": "Madrid",
     "country": " Spain",
-    "population": "3,165,235",
+    "population": "3165235",
     "latitude": "40.383333",
     "longitude": "3.716667"
   },
   {
     "id": "4",
-    "city": "Rome",
+    "name": "Rome",
     "country": " Italy",
-    "population": "2,874,038",
+    "population": "2874038",
     "latitude": "41.9",
     "longitude": "12.5"
   },
   {
     "id": "5",
-    "city": "Paris",
+    "name": "Paris",
     "country": " France",
-    "population": "2,241,346",
+    "population": "2241346",
     "latitude": "48.8567",
     "longitude": "2.3508"
   },
   {
     "id": "6",
-    "city": "Bucharest",
+    "name": "Bucharest",
     "country": " Romania",
-    "population": "2,106,144",
+    "population": "2106144",
     "latitude": "44.4325",
     "longitude": "26.103889"
   },
   {
     "id": "7",
-    "city": "Vienna",
+    "name": "Vienna",
     "country": " Austria",
-    "population": "1,840,573",
+    "population": "1840573",
     "latitude": "48.2",
     "longitude": "16.366667"
   },
   {
     "id": "8",
-    "city": "Hamburg",
+    "name": "Hamburg",
     "country": " Germany",
-    "population": "1,758,041",
+    "population": "1758041",
     "latitude": "53.565278",
     "longitude": "10.001389"
   },
   {
     "id": "9",
-    "city": "Budapest",
+    "name": "Budapest",
     "country": " Hungary",
-    "population": "1,759,407",
+    "population": "1759407",
     "latitude": "47.4925",
     "longitude": "19.051389"
   },
   {
     "id": "10",
-    "city": "Warsaw",
+    "name": "Warsaw",
     "country": " Poland",
-    "population": "1,748,916",
+    "population": "1748916",
     "latitude": "52.233333",
     "longitude": "21.016667"
   },
   {
     "id": "11",
-    "city": "Barcelona",
+    "name": "Barcelona",
     "country": " Spain",
-    "population": "1,602,386",
+    "population": "1602386",
     "latitude": "41.383333",
     "longitude": "2.183333"
   },
   {
     "id": "12",
-    "city": "Munich",
+    "name": "Munich",
     "country": " Germany",
-    "population": "1,521,678",
+    "population": "1521678",
     "latitude": "48.133333",
     "longitude": "11.566667"
   },
   {
     "id": "13",
-    "city": "Milan",
+    "name": "Milan",
     "country": " Italy",
-    "population": "1,350,973",
+    "population": "1350973",
     "latitude": "45.466667",
     "longitude": "9.183333"
   },
   {
     "id": "14",
-    "city": "Prague",
+    "name": "Prague",
     "country": " Czech Republic",
-    "population": "1,280,208",
+    "population": "1280208",
     "latitude": "50.083333",
     "longitude": "14.416667"
   },
   {
     "id": "15",
-    "city": "Sofia",
+    "name": "Sofia",
     "country": " Bulgaria",
-    "population": "1,260,120",
+    "population": "1260120",
     "latitude": "42.7",
     "longitude": "23.33"
   },
   {
     "id": "16",
-    "city": "Brussels",
+    "name": "Brussels",
     "country": " Belgium",
-    "population": "1,171,828",
+    "population": "1171828",
     "latitude": "50.85",
     "longitude": "4.35"
   },
   {
     "id": "17",
-    "city": "Belgrade",
+    "name": "Belgrade",
     "country": " Serbia",
-    "population": "1,166,763",
+    "population": "1166763",
     "latitude": "44.816667",
     "longitude": "20.466667"
   },
   {
     "id": "18",
-    "city": "Birmingham",
+    "name": "Birmingham",
     "country": " United Kingdom",
-    "population": "1,092,330",
+    "population": "1092330",
     "latitude": "52.483056",
     "longitude": "1.893611"
   },
   {
     "id": "19",
-    "city": "Cologne",
+    "name": "Cologne",
     "country": " Germany",
-    "population": "1,039,488",
+    "population": "1039488",
     "latitude": "50.936389",
     "longitude": "6.952778"
   },
   {
     "id": "20",
-    "city": "Naples",
+    "name": "Naples",
     "country": " Italy",
-    "population": "989,111",
+    "population": "989111",
     "latitude": "40.833333",
     "longitude": "14.25"
   }
