@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "city": "London",
+    "country": " United Kingdom",
+    "population": "8,673,713",
+    "latitude": "51.507222",
+    "longitude": "0.1275"
+  },
+  {
+    "id": "2",
+    "city": "Berlin",
+    "country": " Germany",
+    "population": "3,562,166",
+    "latitude": "52.516667",
+    "longitude": "13.383333"
+  },
+  {
+    "id": "3",
+    "city": "Madrid",
+    "country": " Spain",
+    "population": "3,165,235",
+    "latitude": "40.383333",
+    "longitude": "3.716667"
+  },
+  {
+    "id": "4",
+    "city": "Rome",
+    "country": " Italy",
+    "population": "2,874,038",
+    "latitude": "41.9",
+    "longitude": "12.5"
+  },
+  {
+    "id": "5",
+    "city": "Paris",
+    "country": " France",
+    "population": "2,241,346",
+    "latitude": "48.8567",
+    "longitude": "2.3508"
+  },
+  {
+    "id": "6",
+    "city": "Bucharest",
+    "country": " Romania",
+    "population": "2,106,144",
+    "latitude": "44.4325",
+    "longitude": "26.103889"
+  },
+  {
+    "id": "7",
+    "city": "Vienna",
+    "country": " Austria",
+    "population": "1,840,573",
+    "latitude": "48.2",
+    "longitude": "16.366667"
+  },
+  {
+    "id": "8",
+    "city": "Hamburg",
+    "country": " Germany",
+    "population": "1,758,041",
+    "latitude": "53.565278",
+    "longitude": "10.001389"
+  },
+  {
+    "id": "9",
+    "city": "Budapest",
+    "country": " Hungary",
+    "population": "1,759,407",
+    "latitude": "47.4925",
+    "longitude": "19.051389"
+  },
+  {
+    "id": "10",
+    "city": "Warsaw",
+    "country": " Poland",
+    "population": "1,748,916",
+    "latitude": "52.233333",
+    "longitude": "21.016667"
+  },
+  {
+    "id": "11",
+    "city": "Barcelona",
+    "country": " Spain",
+    "population": "1,602,386",
+    "latitude": "41.383333",
+    "longitude": "2.183333"
+  },
+  {
+    "id": "12",
+    "city": "Munich",
+    "country": " Germany",
+    "population": "1,521,678",
+    "latitude": "48.133333",
+    "longitude": "11.566667"
+  },
+  {
+    "id": "13",
+    "city": "Milan",
+    "country": " Italy",
+    "population": "1,350,973",
+    "latitude": "45.466667",
+    "longitude": "9.183333"
+  },
+  {
+    "id": "14",
+    "city": "Prague",
+    "country": " Czech Republic",
+    "population": "1,280,208",
+    "latitude": "50.083333",
+    "longitude": "14.416667"
+  },
+  {
+    "id": "15",
+    "city": "Sofia",
+    "country": " Bulgaria",
+    "population": "1,260,120",
+    "latitude": "42.7",
+    "longitude": "23.33"
+  },
+  {
+    "id": "16",
+    "city": "Brussels",
+    "country": " Belgium",
+    "population": "1,171,828",
+    "latitude": "50.85",
+    "longitude": "4.35"
+  },
+  {
+    "id": "17",
+    "city": "Belgrade",
+    "country": " Serbia",
+    "population": "1,166,763",
+    "latitude": "44.816667",
+    "longitude": "20.466667"
+  },
+  {
+    "id": "18",
+    "city": "Birmingham",
+    "country": " United Kingdom",
+    "population": "1,092,330",
+    "latitude": "52.483056",
+    "longitude": "1.893611"
+  },
+  {
+    "id": "19",
+    "city": "Cologne",
+    "country": " Germany",
+    "population": "1,039,488",
+    "latitude": "50.936389",
+    "longitude": "6.952778"
+  },
+  {
+    "id": "20",
+    "city": "Naples",
+    "country": " Italy",
+    "population": "989,111",
+    "latitude": "40.833333",
+    "longitude": "14.25"
+  }
+]
